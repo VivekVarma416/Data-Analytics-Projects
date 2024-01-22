@@ -9,7 +9,7 @@ The dataset (2001-2012NEW.csv) consists of crime statistics for various types of
 **Getting Started**
 
 1.Clone the repository:
-git clone https://github.com/vivekvarma360/crime-data-analysis.git
+git clone https://[github.com/vivekvarma360/crime-data-analysis.git](https://github.com/VivekVarma416/Data-Analytics-Projects/blob/main/crimerate_prediction.ipynb)
 
 2.Navigate to the project directory:
 cd crime-data-analysis
